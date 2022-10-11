@@ -1,0 +1,9 @@
+Lab 2: Resource Breakdown Structure 
+________________________________________________________________________
+Objective: The student will learn to create a Resource Breakdown Structure.
+Course Outcome CO2: Perform Effort Estimation for Each Activity
+Blooms Taxonomy Level: BT2, BT3, BT4
+ 
+Q1.         Draw the resource breakdown structure for a payroll system.
+Q2.         Draw the resource breakdown structure for a library management system.
+ 
